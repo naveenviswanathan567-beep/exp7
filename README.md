@@ -2,7 +2,9 @@
 To implement a basic lane detection pipeline using OpenCV by completing missing code segments at specified locations.
 
 ### Learning Objective
-Understand each stage of image processing Learn how to build a complete computer vision pipeline Practice writing code in guided sections Important Instruction: 👉 Write code ONLY in places marked as # Your Code Here 👉 Do NOT modify any other part of the code
+Understand each stage of image processing Learn how to build a complete computer vision pipeline Practice writing code in guided sections Important Instruction: 
+ Write code ONLY in places marked as # Your Code Here 
+ Do NOT modify any other part of the code
 
 ### Software Used
 Anaconda – Python 3.7 Jupyter Notebook / VS Code OpenCV (cv2) NumPy Matplotlib
